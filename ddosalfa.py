@@ -110,11 +110,7 @@ def get_parameters():
 		thr = opts.turbo
 
 
-# reading headers
-global data
-headers = open("headers.txt", "r")
-data = headers.read()
-headers.close()
+#
 #task queue are q,w
 q = Queue()
 w = Queue()
