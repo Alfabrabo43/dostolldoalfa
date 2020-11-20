@@ -73,7 +73,7 @@ def dos2():
 
 
 def usage():
-	print (''' \033[92m	Bot ddos cru em andamento use  : python3 hammer.py [-s] [-p] [-t]
+	print (''' \033[92m	Bot ddos cru em andamento use  : python ddosalfa.py [-s] [-p] [-t]
 	-h : ajuda
 	-s : server ip
 	-p : porta padrao 80
